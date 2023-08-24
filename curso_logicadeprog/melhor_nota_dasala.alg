@@ -1,19 +1,17 @@
-algoritmo "semnome"
-// Função :
-// Autor :
+algoritmo "Melhor Nota da Sala"
+// Autor : Ana Luiza dos Santos Dias
 // Data : 17/06/2023
-// Seção de Declarações 
 var
 qntd, cont: inteiro
 nota, melhor_nota: real
 aluno, melhor_aluno: caractere
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 escreval("---------------------------------")
 escreval("      ESCOLA DE TECNOLOGIA       ")
 escreval("---------------------------------")
 
-escreval("digite quantos alunos têm na turma? ")
+escreval("digite quantos alunos tÃªm na turma? ")
 leia(qntd)
 
 cont <- 1
